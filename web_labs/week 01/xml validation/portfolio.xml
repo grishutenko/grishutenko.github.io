@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE portfolio PUBLIC "kodaktor.ru" "http://kodaktor.ru/x/unsafe_27b84">
+<portfolio>
+	<name>Гришутенко Павел</name>
+	<info>information about my competencies</info>
+	<competencies>
+		<competency in="HTML" value="good"/>
+		<competency in="CSS" value="good, but worse then HTML"/>
+		<competency in="SSL" value="What's it?"/>
+	</competencies>
+</portfolio>
