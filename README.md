@@ -1,6 +1,6 @@
 # grishutenko.github.io
 Портфолио Гришутенко Павла
-
+https://github.com/grishutenko/grishutenko.github.io
 
 ## Курсовые работы
 За 1 курс - https://github.com/grishutenko/grishutenko.github.io/blob/master/Гришутенко%20Павел%201%20курс%20ИВТ%20Курсовая.docx
