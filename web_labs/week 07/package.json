@@ -1,0 +1,9 @@
+{
+    "name": "week07",
+    "version": "1.0.0",
+    "main": "main.js",
+    "license": "MIT",
+    "devDependencies": {
+      "node-fetch": "^2.6.0"
+    }
+  }
