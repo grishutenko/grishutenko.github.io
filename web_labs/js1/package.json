@@ -1,0 +1,13 @@
+{
+  "name": "js1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  },
+  "dependencies": {
+    "moment": "^2.26.0"
+  }
+}

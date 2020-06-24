@@ -1,0 +1,16 @@
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <h1>Результат</h1>
+    <button>Отправить запрос</button>
+    <script>{
+	button1 = document.querySelector(`button`);
+  button1.addEventListener(`click`, async e =>{
+                            const { users } = await fetch(`https://kodaktor.ru/j/users`).then(x => x.json());
+  document.body.firstChild.textContent += users[0].login;
+                            });
+	}</script>
+  </body>
+</html>

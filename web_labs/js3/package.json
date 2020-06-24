@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "nodemon"
+  },
+  "name": "js3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "moment": "^2.26.0"
+  }
+}
