@@ -1,0 +1,18 @@
+<h1>Coments</h1>
+<form action="/write", method="POST">
+    <h2>Write coment</h2>
+    <input type="text", name='coment'>
+    <button type="submit">send</button>
+</form>
+
+{{#if db.length}}
+<ul>
+    {{#each db}}
+        <li class="db">
+            {{coments}}
+        </li>
+    {{/each }}
+</ul>
+{{else}}
+    <p>No coments yet</p>
+{{/if}}
