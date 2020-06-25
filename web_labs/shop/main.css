@@ -1,0 +1,48 @@
+.shop{
+    position: absolute;
+    width: 800px;
+	height: 600px;
+    background: aqua;
+    border-radius: 25px;
+
+}
+.cart{
+    position: absolute;
+    left: 380px;
+    top: 25px;
+    padding: 20px;
+    width: 350px;
+    height: 500px;
+    
+    background: cornsilk;
+    border-radius: 25px;
+}
+.price{
+    position: absolute;
+    width: 300px;
+    height: 50px;
+    top: 475px;
+    left: 35px;
+    padding: 15px;
+    background: cornsilk;
+    border-radius: 25px;
+}
+.catalog{
+    position: absolute;
+    top: 100px;
+    left: 45px;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+button{
+    position: absolute;
+    top: 450px;
+    left: 45px;
+}
+#cost{
+    position: absolute;
+    top: 200px;
+    left: 45px;
+}
